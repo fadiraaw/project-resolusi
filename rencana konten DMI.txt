@@ -2,6 +2,8 @@ Rencana Konten DMI
 DMI part-1 (pra produksi)
   * 4 tahapan yang harus disiapkan (design treatment, visual development phase, programming phase, testing phase)
     - daftar membuat media tentang olahraga
+    - daftar membuat media interaktif tentang makanan
+    - daftar membuat media interaktif tentang tentang pakaian
   * Evaluasi hasil karya siswa dan melakukan review
   * Membuat makalah pra produksi
     
